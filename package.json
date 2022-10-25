@@ -1,0 +1,26 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=51700",
+    "sass": "sass --watch main.scss:main.css --style=compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonualexandru/scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "live-server": "^1.1.0",
+    "sass": "^1.55.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonualexandru/scheduler/issues"
+  },
+  "homepage": "https://github.com/tonualexandru/scheduler#readme"
+}
